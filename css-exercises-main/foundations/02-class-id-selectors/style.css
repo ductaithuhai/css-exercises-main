@@ -1,0 +1,31 @@
+.num-1,
+.num-3,
+.num-5 {
+  background-color: palevioletred;
+}
+
+.num-1,
+.num-5 {
+  font-size: 16px;
+}
+
+#num-2 {
+  color:blue;
+  font-size: 32px;
+}
+
+.num-3 {
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#num-4 {
+  font-weight: bold;
+  font-size: 20px;
+  background-color: greenyellow;
+}
+
+#num-2,
+#num-4 {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
